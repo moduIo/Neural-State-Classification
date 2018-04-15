@@ -1,2 +1,3 @@
 datasets/*
 *.h5
+*/logs/*
