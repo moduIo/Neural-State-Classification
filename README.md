@@ -5,7 +5,7 @@ Neural network approach to the state classification problem implemented with Ker
 The 'models' directory contains two projects: 'helicopter_models', 'parametric_neuron_models'.
 
 ### 'helicopter_models'
-'helicopter_models/networks.ipynb' implements a 1-D CNN trained on 1 million example configurations from a hybrib automata model of a helicopter control system.
+'helicopter_models/networks.ipynb' implements a 1-D CNN trained on 1 million example configurations from a hybrid automata model of a helicopter control system.
 
 CNN Architecture:
 16 3x1 convolutions => 32 3x16 convolutions => FC 2048 => FC 1024 => FC 512 => FC1
