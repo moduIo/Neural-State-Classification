@@ -1,4 +1,4 @@
-# Neural-State-Classification
+# Neural State Classification
 Neural network approach to the state classification problem implemented with Keras.
 
 ## 'models'
