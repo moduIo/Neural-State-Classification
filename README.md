@@ -9,6 +9,7 @@ The 'models' directory contains two projects: 'helicopter_models', 'parametric_n
 
 CNN Architecture:
 16 3x1 convolutions => 32 3x16 convolutions => FC 2048 => FC 1024 => FC 512 => FC1
+
 Dropout is applied in all fully connected layers except the output layer.  Batch normalization is applied to both convolutional and fully connected layers.
 
 Accuracy: 95.6%
