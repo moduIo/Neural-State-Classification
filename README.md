@@ -10,9 +10,9 @@ The 'models' directory contains two projects: 'helicopter_models', 'parametric_n
 CNN Architecture:
 16 3x1 convolutions => 32 3x16 convolutions => FC 2048 => FC 1024 => FC 512 => FC1
 
-Dropout is applied in all fully connected layers except the output layer.  Batch normalization is applied to both convolutional and fully connected layers.
+Dropout is applied in all fully connected layers except the output layer.  Batch normalization is applied to both convolutional and fully connected layers.  Adagrad optimizer is used with He normal initialization.
 
-Accuracy: 95.6%
+Accuracy: 98.67%
 
 ### 'parametric_neuron_models'
 'parametric_neuron_models/networks.ipynb' contains 5 models trained on samples from a parametrized neuron model where the number of parameters varied between 1 and 5.
