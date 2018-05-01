@@ -18,3 +18,6 @@ Accuracy: 98.67%
 'parametric_neuron_models/networks.ipynb' contains 5 models trained on samples from a parametrized neuron model where the number of parameters varied between 1 and 5.
 
 Accuracy: 97-99%
+
+### 'powertrain_models'
+'powertrain_models/networks.ipynb' implements DNN and 1D CNN for a powertrain model.  Best accuracy trained on 20k samples is ~95%.
