@@ -2,7 +2,7 @@
 Neural network approach to the state classification problem implemented with Keras.
 
 ## 'models'
-The 'models' directory contains two projects: 'helicopter_models', 'parametric_neuron_models'.
+The 'models' directory contains three projects: 'helicopter_models', 'parametric_neuron_models', and 'powertrain_models'.
 
 ### 'helicopter_models'
 'helicopter_models/networks.ipynb' implements a 1D CNN trained on 1 million example configurations from a hybrid automata model of a helicopter control system.
