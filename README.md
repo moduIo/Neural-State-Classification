@@ -1,6 +1,8 @@
 # Neural State Classification
 Neural network approach to the state classification problem implemented with Keras.
 
+"Neural State Classification for Hybrid Systems" ATVA 2018 (https://arxiv.org/pdf/1807.09901.pdf).
+
 ## 'models'
 The 'models' directory contains three projects: 'helicopter_models', 'parametric_neuron_models', and 'powertrain_models'.
 
